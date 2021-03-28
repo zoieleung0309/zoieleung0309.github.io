@@ -22,7 +22,7 @@ div.subheading.mb-5{
 .text-primary {
     color: #2d70d4 !important;
 }
-a.subheading.mb-5 {
+a{
     color: #2d70d4;
     text-decoration: none;
     background-color: transparent;
