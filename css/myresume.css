@@ -17,13 +17,16 @@ div.subheading.mb-5{
 }
 .bg-primary{
 	background-color: #2d70d4!important;
-	background-image: url(../assets/img/backgound.png);
+	background-image: url(../assets/img/backgound.png)!important;
 }
 .text-primary {
     color: #2d70d4 !important;
 }
-a {
+a.subheading.mb-5 {
     color: #2d70d4;
     text-decoration: none;
     background-color: transparent;
+}
+a:hover.social-icon{
+	  color: #2d70d4;
 }
