@@ -15,9 +15,9 @@ h2.mb-0{
 div.subheading.mb-5{
 	text-transform: none;line-height: 1em;
 }
-.bg-primary{
-	background-color: #2d70d4!important;
-	background-image: url(../assets/img/backgound.png)!important;
+background-color: #2d70d4;
+background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .text-primary {
     color: #2d70d4 !important;
