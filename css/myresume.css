@@ -27,7 +27,7 @@ a{
     text-decoration: none;
     background-color: transparent;
 }
-a.social-icons .social-icon:hover {
+.social-icons .social-icon:hover {
     background-color: ##213a9e;
 }
 a:hover.social-icon {
