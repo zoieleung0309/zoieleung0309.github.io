@@ -27,6 +27,9 @@ a{
     text-decoration: none;
     background-color: transparent;
 }
-a:hover.social-icon{
-	  color: #2d70d4;
+a.social-icons .social-icon:hover {
+    background-color: ##213a9e;
+}
+a:hover.social-icon {
+    color: #ffffff;
 }
