@@ -15,6 +15,7 @@ h2.mb-0{
 }
 
 div.subheading.mb-5{
+  font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;line-height: 1em;
 }
 
@@ -33,7 +34,8 @@ div.subheading.mb-5 a:hover {
 }
 
 a{
-    color: #2d70d4;
+    font-family: 'Noto Sans TC', sans-serif;
+		color: #2d70d4;
     text-decoration: none;
     background-color: transparent;
 }
